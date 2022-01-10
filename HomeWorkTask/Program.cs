@@ -6,7 +6,7 @@ namespace HomeWorkTask
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(HomeWork3.Task10(-5));
+
         }
     }
 }
